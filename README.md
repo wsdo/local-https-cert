@@ -9,8 +9,10 @@ cd local-https-cert
 ```
 sh createRootCA.sh
 ```
+
 ![20200627134114](https://s.shudong.wang/note/20200627134114.png)
 ![20200627134446](https://s.shudong.wang/note/20200627134446.png)
+
 > 1.输入一个秘密（随便输入，但是要记住）
 > 2.输入刚才的秘密（和上面秘密要一致）
 
