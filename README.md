@@ -21,13 +21,16 @@ sh createRootCA.sh
 ```
 sh createSelfSigned.sh
 ```
+
 ![20200627134535](https://s.shudong.wang/note/20200627134535.png)
 
 3. 让打开RootCA改成始终信任
 #### 点击
+
 ![20200627133245](https://s.shudong.wang/note/20200627133245.png)
 
 #### 点击login 输入上面生成证书的秘密
+
 ![20200627133233](https://s.shudong.wang/note/20200627133233.png)
 ![20200627134735](https://s.shudong.wang/note/20200627134735.png)
 ![20200627134805](https://s.shudong.wang/note/20200627134805.png)
