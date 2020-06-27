@@ -20,7 +20,7 @@ sh createRootCA.sh
 
 2. 创建根证书
 ```
-sh createSelfSigned.sh
+sh createCertificate.sh
 ```
 
 ![20200627134535](https://s.shudong.wang/note/20200627134535.png)
