@@ -1,4 +1,5 @@
 # 生成本地
+
 0. 获取脚本
 ```
 git clone https://github.com/wsdo/local-https-cert.git
@@ -41,7 +42,7 @@ sh createSelfSigned.sh
 # HTTPS server
 server {
     listen 443 ssl;
-    server_name testwww.kaikeba.com;
+    server_name shudong.wang;
 
     ssl_certificate ssl/www.server.crt;
     ssl_certificate_key ssl/www.server.key;
