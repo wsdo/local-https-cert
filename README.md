@@ -1,5 +1,3 @@
-# 生成本地
-
 0. 获取脚本
 ```
 git clone https://github.com/wsdo/local-https-cert.git
