@@ -1,3 +1,11 @@
+## 本地支持https
+
+## 解决下图问题
+![20200630193810](http://s.shudong.wang/note/20200630193810.png)
+
+> NET::ERR_CERT_COMMON_NAME_INVALID
+
+
 0. 获取脚本
 ```
 git clone https://github.com/wsdo/local-https-cert.git
