@@ -3,5 +3,5 @@ basicConstraints=CA:FALSE
 keyUsage = digitalSignature, nonRepudiation, keyEncipherment, dataEncipherment
 subjectAltName = @starkwang
 
-[alt_names]
+[starkwang]
 DNS.1 = localhost
