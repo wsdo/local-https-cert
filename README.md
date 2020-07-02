@@ -5,6 +5,7 @@
 
 > NET::ERR_CERT_COMMON_NAME_INVALID
 
+![20200702200910](http://s.shudong.wang/note/20200702200910.png)
 
 0. 获取脚本
 ```
